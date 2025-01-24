@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Adrian and I'm an Earth Scientist.</h2>
 
 ###
@@ -54,9 +55,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adriantorresl/adriantorresl/output/snake.svg" alt="Snake animation" />
+![Snake animation]
+(https://github.com/adriantorresl/adriantorresl/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
