@@ -55,8 +55,6 @@
 
 ###
 
-![Snake animation]
-(https://github.com/adriantorresl/adriantorresl/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
